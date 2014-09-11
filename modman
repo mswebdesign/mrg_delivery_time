@@ -1,4 +1,4 @@
 build/app/code/community/Symmetrics/DeliveryTime/                   app/code/community/Symmetrics/DeliveryTime/
 build/app/etc/modules/Symmetrics_DeliveryTime.xml                   app/etc/modules/Symmetrics_DeliveryTime.xml
 build/app/locale/de_DE/Symmetrics_DeliveryTime.csv                  app/locale/de_DE/Symmetrics_DeliveryTime.csv
-build/app/locale/en_EN/Symmetrics_DeliveryTime.csv                  app/locale/en_EN/Symmetrics_DeliveryTime.csv
+build/app/locale/en_US/Symmetrics_DeliveryTime.csv                  app/locale/en_US/Symmetrics_DeliveryTime.csv
